@@ -1,0 +1,10 @@
+Organización :
+La organización dentro de lo administración de los centros de cómputo, se refieren a la estructuras que proporcionan jerarquía
+que puede o debe tener un centro de cómputo y a la división organizacional que estos deben de tener para optimizar su funcionamiento.
+
+Un ejemplo de esto seria organizar las distintas áreas internas dentro de nuestro centro de cómputo con respecto a mejorar
+u optimizar un aspecto en específico, podría ser una organización mas enfocada al público/brindar servicios y para ello se deberán organizar
+las áreas de trabajo, mover o reorganizar las áreas existentes considerando el espacio y la atención que se deberá tener para los clientes,
+además de crear una división encargada a servir a los clientes si es que no se cuenta con una y esta área la debes meter en las jerarquías
+interna además de asignar algún jefe o encargado para dicha área todo esto para lograr enfocar tu centro a un mejor servicio al cliente.
+
